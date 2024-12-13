@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Data files
+data/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
